@@ -4,7 +4,7 @@
       "DynamoDBTable": {
         "Type": "AWS::DynamoDB::Table",
         "Properties": {
-          "TableName": "pbl_nt",
+          "TableName": "pbl_ht",
           "AttributeDefinitions": [
             {
               "AttributeName": "PK",
